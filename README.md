@@ -38,7 +38,7 @@ python3 comprehensive_nifty_test.py
 - Test Accuracy: 68.2%
 - High Confidence Accuracy: 69.2%
 - Improvement over random: +18.2 percentage points
-- Training samples: 51, Test samples: 22
+- Training samples: 249(1 year Bank Nifty data)
 
 ## Key Files
 
