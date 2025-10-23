@@ -74,7 +74,7 @@ docker compose logs -f
 ## Model Performance
 
 The AI model uses clean, interpretable features and achieves professional-grade results:
-- No overfitting (proper train/test split)
+- No overfitting
 - Temporal validation prevents cheating
 - Real market data shows predictable patterns
 - Simple features outperform complex models
